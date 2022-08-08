@@ -1,7 +1,8 @@
 # GitTest
 
 #### 介绍
-简单的springboot练手项目
+运用了Spring Security安全框架、JWT令牌、Redis、EasyPOI、RabbitMQ、WebSocket、FasfDFS等知识
+实现了登录，对信息的增删改查，设置用户权限，邮件发送，实时聊天等功能
 
 #### 软件架构
 软件架构说明
